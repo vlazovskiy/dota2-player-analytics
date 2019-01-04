@@ -1,4 +1,4 @@
-WIP: refactoring code, segmenting scraping code to be a standalone unit
+**WIP: refactoring code, segmenting scraping code to be a standalone unit**
 
 For this project, I chose popular online multiplayer game DotA 2. I analyzed a player's account and looked for insights: gameplay patterns, item choices, and various in-game metrics. A detailed presentation of my project can be found [here]( https://prezi.com/view/s0ugsaCXBYihMsMHhExw/).
 
